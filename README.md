@@ -1,5 +1,11 @@
 # OVH DynHost Updater
 
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![uv](https://img.shields.io/badge/uv-package%20manager-blueviolet)
+![OVH](https://img.shields.io/badge/OVH-DynHost-123F6D?logo=ovh&logoColor=white)
+![Rich](https://img.shields.io/badge/CLI-Rich-orange)
+
 Un outil Python simple et élégant pour mettre à jour automatiquement vos enregistrements DNS DynHost OVH avec votre adresse IP publique actuelle.
 
 ## Fonctionnalités
